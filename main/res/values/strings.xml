@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="my_ride">MY RIDE</string>
+    <string name="login">Login</string>
+    <string name="TakePic">Take a Picture</string>
+    <string name="registration">Registration</string>
+    <string name="submit">Submit</string>
+</resources>
